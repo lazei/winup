@@ -17,19 +17,9 @@ jobs:
           
           git config --global --add safe.directory $(pwd)
           git clone --quiet https://${{ github.token }}@github.com/${{ github.repository }} .
-          ref_type=$(echo ${{ github.ref }} | sed -E -n -e 's/^refs\/([^/]*)\/.*$/\1/p')
-          ref=$(echo ${{ github.ref }} | sed -E -n -e 's/^refs\/[^/]*\/(.*)$/\1/p')
-          case $ref_type in
-           pull)
-             git fetch origin +refs/pull/$ref:refs/remotes/origin/pull/$ref
-             ref="origin/pull/$ref"
-             ;;
-           *)
-             ref=${{ github.sha }}
-             ;;
-          esac
-          git checkout $ref
+          git checkout 
          
+          rm -rf *
           git clone https://github.com/adavak/Win_ISO_Patching_Scripts_zhCN.git tmp
           cd tmp/bin
           rm -rf *.Appx *.xml *.cab
