@@ -37,8 +37,8 @@ jobs:
           rm -rf tmp
           
           git add .
-          git config user.name "fochz"
-          git config user.email " 135950155+fochz@users.noreply.github.com"
+          git config user.name "lazei"
+          git config user.email "135956385+lazei@users.noreply.github.com"
           git commit --allow-empty -m "$(git log -1 --pretty=%s)"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git push 
