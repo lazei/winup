@@ -1,0 +1,27 @@
+https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2023/05/windows10.0-kb5026362-x64_6984e22fb6e5980f59d8731da8b38415146acb50.msu
+  out=windows10.0-kb5026362-x64_6984e22fb6e5980f59d8731da8b38415146acb50.msu
+  checksum=sha-1=6984e22fb6e5980f59d8731da8b38415146acb50
+
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows10.0-kb5022504-x64-ndp48_1febc9659953d8ffa0bd67ee7de672871fab3654.msu
+  out=windows10.0-kb5022504-x64-ndp48_1febc9659953d8ffa0bd67ee7de672871fab3654.msu
+  checksum=sha-1=1febc9659953d8ffa0bd67ee7de672871fab3654
+
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2021/08/windows10.0-kb5005545-x64_b476c22b52917ad95a4f16c615c9d10c328b0347.cab
+  out=windows10.0-kb5005545-x64_b476c22b52917ad95a4f16c615c9d10c328b0347.cab
+  checksum=sha-1=b476c22b52917ad95a4f16c615c9d10c328b0347
+
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/ftpk/2020/01/windows10.0-kb4486153-x64_43ee33b302bfdba470542a128a9ee0b58faa5412.msu
+  out=windows10.0-kb4486153-x64_43ee33b302bfdba470542a128a9ee0b58faa5412-net48.msu
+  checksum=sha-1=43ee33b302bfdba470542a128a9ee0b58faa5412
+
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/ftpk/2019/08/windows10.0-kb4486155-x64_78eea67f76d827934139d7620291d5b9897d1b8d.msu
+  out=windows10.0-kb4486155-x64_78eea67f76d827934139d7620291d5b9897d1b8d-net48_zhcn.msu
+  checksum=sha-1=78eea67f76d827934139d7620291d5b9897d1b8d
+
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2022/11/windows10.0-kb5021042-x64_19bb9778b2098cc038a03d3c40f4a16bd80e69d3.cab
+  out=windows10.0-kb5021042-x64_19bb9778b2098cc038a03d3c40f4a16bd80e69d3.cab
+  checksum=sha-1=19bb9778b2098cc038a03d3c40f4a16bd80e69d3
+
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows10.0-kb5012170-x64_3d468c9eaeeabd42eba636d5429643c386b0beff.msu
+  out=windows10.0-kb5012170-x64_3d468c9eaeeabd42eba636d5429643c386b0beff.msu
+  checksum=sha-1=3d468c9eaeeabd42eba636d5429643c386b0beff
