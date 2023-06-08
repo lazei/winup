@@ -19,7 +19,7 @@ jobs:
           git clone --quiet https://${{ github.token }}@github.com/${{ github.repository }} .
           git checkout 
          
-          rm -rf *
+          rm -rf bin Scripts W10UI.*
           git clone https://github.com/adavak/Win_ISO_Patching_Scripts_zhCN.git tmp
           cd tmp/bin
           rm -rf *.Appx *.xml *.cab
